@@ -7,3 +7,9 @@ Mercury, orbit insertion was accomplished on March 18, 2011. The aim of the miss
 
 This project performs a reverse engineering study of the NASA’s MESSENGER mission. Analizing all the spacecraft subsystems through preliminary quantitative analysis, with the aim of understanding the rationale behind the choices made by NASA engineers.
 
+(https://drive.google.com/file/d/1YNnnL1oBUX0I1NOMNEdL6cTFX0m9ZL21/view?usp=sharing) 
+
+Authors: Lorenzo Dionigi, Alberto Cordella, Sara Gentile, Alessandra Noemi Lucarno, Mizmizi Achraf, Nicolò Oldani
+
+Supervisor: Prof. Michèle Lavagna
+
