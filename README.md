@@ -1,4 +1,4 @@
-# Reverse-Sizing-MESSENGER-MErcury-Surface-Space-ENvironment-GEochemistry-and-Ranging
+# Reverse Sizing MESSENGER MErcury Surface Space ENvironment GEochemistry and Ranging
 
 Messenger was launched successfully by a Delta II 7925H-9.5 rocket on August 3, 2004. The cruise phase of
 the mission is 6.6 years in duration and includes six planetary flybys—one of Earth, two of Venus, and three of
